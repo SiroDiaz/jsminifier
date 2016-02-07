@@ -1,0 +1,1 @@
+"use strict";function _classCallCheck(s,i){if(!(s instanceof i))throw new TypeError("Cannot call a class as a function")}var _fs=require("fs"),JSminifier=function s(i){_classCallCheck(this,s),this.file=i};
